@@ -20,7 +20,7 @@ https://greicianegaleoti.github.io/mafia-wisdom-generator/
 
 
 
-![screenshot](./screenshot.png)  
+![screenshot](./screenshot.png) 
 
 
 ---
