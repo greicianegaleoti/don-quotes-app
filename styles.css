@@ -47,7 +47,6 @@ button:hover {
   background-color: #A52A2A;
 }
 
-/* Responsiveness for small screens */
 @media (max-width: 480px) {
   body {
     padding: 30px 15px;
