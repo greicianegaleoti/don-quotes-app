@@ -22,6 +22,12 @@ const quotes = [
 ];
 
 function generateQuote() {
-  const randomIndex = Math.floor(Math.random() * quotes.length);
-  document.getElementById('quote').textContent = `"${quotes[randomIndex]}"`;
+  const quoteEl = document.getElementById('quote');
+  quoteEl.style.opacity = 0;
+
+  setTimeout(() => {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    quoteEl.textContent = `"${quotes[randomIndex]}"`;
+    quoteEl.style.opacity = 1;
+  }, 300);
 }
