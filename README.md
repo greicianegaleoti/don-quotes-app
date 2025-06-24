@@ -3,7 +3,7 @@
 A simple web app that displays random quotes from The Godfather movies, with a classic dark-gold theme.
 
 Live demo:  
-https://greicianegaleoti.github.io/don-quotes-app/
+https://greicianegaleoti.github.io/mafia-wisdom-generator/
 
 ---
 
